@@ -8,6 +8,7 @@ const listaDeDestinos = new Array(
 
 const estaAcompanhada = true;
 const idadeComprador = 15;
+
 console.log(`Destinos possíveis :`);
 console.log(listaDeDestinos);
 
